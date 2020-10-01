@@ -1,6 +1,6 @@
 ﻿<a name="top"></a>
 
-<h1 align="center"><b>朴素linux</b></h1>
+<h1 align="center"><b>朴素Linux</b></h1>
 
 　　大学里我坚持的最久的一项任务就是自学 linux 内核，
 虽然以后可能也没机会从事 linux 内核方面的工作，
